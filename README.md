@@ -15,11 +15,11 @@
 
 <br>
 
-![Custom Range Slider]()
+![Custom Range Slider](images/custom-range-slider.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Custom-Range-Slider/)
 
 <br>
 
